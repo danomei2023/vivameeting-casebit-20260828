@@ -1,0 +1,7609 @@
+[
+ {
+  "year": "2003",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2003_IDDST_65460001.JPG",
+  "dirs": [
+   "IDDST2003"
+  ],
+  "city": "大连",
+  "edition": "第一届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2003_IDDST.jpg"
+ },
+ {
+  "year": "2004",
+  "brand": "CHUANGYEZHOU",
+  "zh": "中国海外学子辽宁（大连）创业周",
+  "en": "CHUANGYEZHOU",
+  "note": "",
+  "photo": "case_assets/bit/2004_CHUANGYEZHOU_P1020683.JPG",
+  "dirs": [
+   "2004中国海外学子辽宁（大连）创业周"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2004_CHUANGYEZHOU.jpg"
+ },
+ {
+  "year": "2004",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2004_IDDST_2004-b-opening ceremony03.jpg",
+  "dirs": [
+   "IDDST2004"
+  ],
+  "city": "大连",
+  "edition": "第二届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2004_IDDST.jpg"
+ },
+ {
+  "year": "2004",
+  "brand": "SHENGMIZCHUN",
+  "zh": "生命之春论坛",
+  "en": "SHENGMIZCHUN",
+  "note": "",
+  "photo": "case_assets/bit/2004_SHENGMIZCHUN_开幕式场景3.jpg",
+  "dirs": [
+   "生命之春2004"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2004_SHENGMIZCHUN.jpg"
+ },
+ {
+  "year": "2005",
+  "brand": "DNADAY",
+  "zh": "国际基因节（世界DNA日）",
+  "en": "World DNA Day",
+  "note": "",
+  "photo": "case_assets/bit/2005_DNADAY_开幕式全景.jpg",
+  "dirs": [
+   "DNADAY2005"
+  ],
+  "city": "大连",
+  "edition": "第一届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2005_DNADAY.jpg"
+ },
+ {
+  "year": "2005",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2005_IDDST_开幕式现场.jpg",
+  "dirs": [
+   "IDDST2005"
+  ],
+  "city": "大连",
+  "edition": "第三届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2005_IDDST.jpg"
+ },
+ {
+  "year": "2005",
+  "brand": "NOBEL",
+  "zh": "诺贝尔奖得主论坛与合作档案",
+  "en": "NOBEL",
+  "note": "",
+  "photo": "case_assets/bit/2005_NOBEL_105.JPG",
+  "dirs": [
+   "2005上海诺奖大师论坛"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2005_NOBEL.jpg"
+ },
+ {
+  "year": "2006",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2006_IDDST_开幕式全景.jpg",
+  "dirs": [
+   "IDDST2006"
+  ],
+  "city": "大连",
+  "edition": "第四届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2006_IDDST.jpg"
+ },
+ {
+  "year": "2006",
+  "brand": "AIDS",
+  "zh": "国际艾滋病大会",
+  "en": "World Congress on HIV/AIDS",
+  "note": "",
+  "photo": "case_assets/bit/2006_AIDS_全景.jpg",
+  "dirs": [
+   "AIDS2006"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2006_AIDS.jpg"
+ },
+ {
+  "year": "2007",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2007_IDDST_DSCF8728.JPG",
+  "dirs": [
+   "IDDST2007"
+  ],
+  "city": "西安",
+  "edition": "第五届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2007_IDDST.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "WCG",
+  "zh": "世界基因大会",
+  "en": "World Congress of Genetics",
+  "note": "",
+  "photo": "case_assets/bit/2008_WCG_RSC_3257-OK.jpg",
+  "dirs": [
+   "WCG2008",
+   "wcg"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_WCG.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "city": "上海",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2008_WCC_group photo.jpg",
+  "photo_file": "2008_CANCER.jpg",
+  "status": "held",
+  "dirs": [
+   "CANCER2008"
+  ]
+ },
+ {
+  "year": "2008",
+  "brand": "WSA",
+  "zh": "中国抗病毒大会",
+  "en": "World Summit of Antivirus",
+  "note": "",
+  "photo": "case_assets/bit/2008_WSA_DSC_7404.JPG",
+  "dirs": [
+   "WSA2008",
+   "wsa"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_WSA.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2008_WDD_RSC_1342.JPG",
+  "dirs": [
+   "WDD2008"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_WDD.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "CEMD",
+  "zh": "国际化学、能源与环境材料设计大会",
+  "en": "Congress on Chemical, Energy & Material Design",
+  "note": "",
+  "photo": "case_assets/bit/2008_CEMD_IMG_6599.JPG",
+  "dirs": [
+   "CEMD2008",
+   "cemd"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_CEMD.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "IBIO",
+  "zh": "国际工业生物技术大会",
+  "en": "International Congress of Industrial Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2008_IBIO_0-.JPG",
+  "dirs": [
+   "IBIO2008",
+   "ibio"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_IBIO.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2008_IDDST_DSC_0005.JPG",
+  "dirs": [
+   "IDDST2008",
+   "iddst"
+  ],
+  "city": "大连",
+  "edition": "第六届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_IDDST.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "Bio-VC",
+  "zh": "国际生物技术风险投资大会",
+  "en": "Biotech Venture Capital Congress",
+  "note": "",
+  "photo": "case_assets/bit/2008_Bio-VC_DSC_0028.JPG",
+  "dirs": [
+   "Bio-VC2008"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_Bio-VC.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "WCV",
+  "zh": "国际疫苗大会",
+  "en": "World Congress of Vaccines",
+  "note": "",
+  "photo": "case_assets/bit/2008_WCV_开幕式场景.JPG",
+  "dirs": [
+   "WCV2008",
+   "wcv"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_WCV.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2008_RMSC_集体照.JPG",
+  "dirs": [
+   "RMSC2008",
+   "rmsc"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_RMSC.jpg"
+ },
+ {
+  "year": "2008",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": "case_assets/bit/2008_PepCon_合影.jpg",
+  "dirs": [
+   "PepCon2008",
+   "pepcon"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2008_PepCon.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "IBIO",
+  "zh": "国际工业生物技术大会",
+  "en": "International Congress of Industrial Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2009_IBIO_DSC05079.JPG",
+  "dirs": [
+   "IBIO2009",
+   "ibio2009"
+  ],
+  "city": "大连·韩国",
+  "edition": "",
+  "country": "韩国",
+  "tier": "国际",
+  "status": "held",
+  "photo_file": "2009_IBIO.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "WCG",
+  "zh": "世界基因大会",
+  "en": "World Congress of Genetics",
+  "note": "",
+  "photo": "case_assets/bit/2009_WCG_DSC_0052.JPG",
+  "dirs": [
+   "WCG2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_WCG.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": "case_assets/bit/2009_WCC_DSC_0612.JPG",
+  "dirs": [
+   "WCC2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_WCC.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "CMBF",
+  "zh": "中国医药生物技术论坛",
+  "en": "China Medical Bio-tech Forum",
+  "note": "",
+  "photo": "case_assets/bit/2009_CMBF_000.jpg",
+  "dirs": [
+   "CMBF2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_CMBF.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "WSA",
+  "zh": "中国抗病毒大会",
+  "en": "World Summit of Antivirus",
+  "note": "",
+  "photo": "case_assets/bit/2009_WSA_DSC_0130.JPG",
+  "dirs": [
+   "WSA2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_WSA.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2009_WDD_DSC_0369.JPG",
+  "dirs": [
+   "WDD2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_WDD.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "CEMD",
+  "zh": "国际化学、能源与环境材料设计大会",
+  "en": "Congress on Chemical, Energy & Material Design",
+  "note": "",
+  "photo": "case_assets/bit/2009_CEMD_CSC_9225.JPG",
+  "dirs": [
+   "CEMD2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_CEMD.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": "case_assets/bit/2009_ICC_Opening Ceremony (3).jpg",
+  "dirs": [
+   "ICC2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_ICC.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "ICA",
+  "zh": "国际抗体大会",
+  "en": "International Congress of Antibodies",
+  "note": "",
+  "photo": "case_assets/bit/2009_ICA_5X14--.jpg",
+  "dirs": [
+   "ICA2009",
+   "ica2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_ICA.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2009_IDDST_Opening Ceremony (103).jpg",
+  "dirs": [
+   "IDDST 2009",
+   "IDDST2009"
+  ],
+  "city": "大连",
+  "edition": "第七届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_IDDST.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "Bio-Soft",
+  "zh": "国际生物软件大会",
+  "en": "International Congress on Bioinformatics",
+  "note": "",
+  "photo": "case_assets/bit/2009_Bio-Soft_DSC_0003.JPG",
+  "dirs": [
+   "Bio-Soft2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_Bio-Soft.jpg"
+ },
+ {
+  "year": "2009",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "rmsc2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_RMSC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2009",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": "case_assets/bit/2009_PepCon_P1080928.JPG",
+  "dirs": [
+   "IBIO PEPCON2009",
+   "pepcon2009"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2009_PepCon.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "ICC",
+  "zh": "上海心脏病与再生医学会议（12 月）",
+  "city": "上海",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2010_ICC_Opening Ceremony (1).jpg",
+  "planned": false,
+  "status": "held",
+  "photo_file": "2010_ICC.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCIT",
+  "zh": "世界信息技术大会",
+  "en": "World Congress of Information Technology",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCIT_DSC_0889.JPG",
+  "dirs": [
+   "WCIT 2010",
+   "WCIT2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCIT.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCHFA",
+  "zh": "世界医疗与健康论坛",
+  "en": "World Congress of Health Forum",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCHFA_DSC_1533.JPG",
+  "dirs": [
+   "WCHFA2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCHFA.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WSEOR",
+  "zh": "世界可持续能源与资源大会",
+  "en": "World Summit on Sustainable Energy & Resources",
+  "note": "",
+  "photo": "case_assets/bit/2010_WSEOR_DSC_1534.JPG",
+  "dirs": [
+   "wseor2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WSEOR.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCF",
+  "zh": "世界渔业大会",
+  "en": "World Congress of Fishery",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCF_DSC_1537.JPG",
+  "dirs": [
+   "WCF 2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCF.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCC_开幕式演讲.JPG",
+  "dirs": [
+   "WCC&NT2010",
+   "WCC2010",
+   "癌症与神经大会2010新闻发布会"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCC.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCCAS-2010",
+  "zh": "世界细胞与干细胞大会",
+  "en": "World Congress of Cell & Stem Cell",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCCAS 2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCCAS-2010.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2010",
+  "brand": "WCP",
+  "zh": "世界药理学大会",
+  "en": "World Congress of Pharmacology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCP-2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCP.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2010",
+  "brand": "WCCB",
+  "zh": "世界计算生物学大会",
+  "en": "World Congress of Computational Biology",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCCB_DSC_0030.JPG",
+  "dirs": [
+   "WCCB2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCCB.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCTT",
+  "zh": "世界转化医学大会",
+  "en": "World Congress of Translational Therapy",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCTT_c.tif",
+  "dirs": [
+   "WCTT2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCTT.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "VMDMP",
+  "zh": "国际兽药与医学大会",
+  "en": "Veterinary Medicine & Drug Meeting",
+  "note": "",
+  "photo": "case_assets/bit/2010_VMDMP_合影.jpg",
+  "dirs": [
+   "VMDMP2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_VMDMP.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2010",
+  "brand": "MolMed",
+  "zh": "国际分子医学大会",
+  "en": "World Congress of Molecular Medicine",
+  "note": "",
+  "photo": "case_assets/bit/2010_MolMed_1合影.jpg",
+  "dirs": [
+   "2010.11月上海分子医学"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_MolMed.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "OFC",
+  "zh": "国际前沿化学大会",
+  "en": "Open Frontier Chemistry",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "OFC 2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_OFC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2010",
+  "brand": "MTS",
+  "zh": "国际医疗与科技峰会",
+  "en": "Medical & Technology Summit",
+  "note": "",
+  "photo": "case_assets/bit/2010_MTS_DSC_0348.JPG",
+  "dirs": [
+   "MTS-2010",
+   "MTS2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_MTS.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "IBIO",
+  "zh": "国际工业生物技术大会",
+  "en": "International Congress of Industrial Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2010_IBIO_合影.jpg",
+  "dirs": [
+   "2010.7大连工业生物",
+   "ibio2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_IBIO.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "ICA",
+  "zh": "国际抗体大会",
+  "en": "International Congress of Antibodies",
+  "note": "",
+  "photo": "case_assets/bit/2010_ICA_2010抗体 疫苗集体照.jpg",
+  "dirs": [
+   "ICA-2010",
+   "ICA2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_ICA.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2010_IDDST_IDDST&NANO合影.jpg",
+  "dirs": [
+   "IDDST 2010",
+   "IDDST NANO2010",
+   "IDDST-2010晚宴",
+   "NANO&IDDST2010"
+  ],
+  "city": "大连",
+  "edition": "第八届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_IDDST.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "Bio-Soft",
+  "zh": "国际生物软件大会",
+  "en": "International Congress on Bioinformatics",
+  "note": "",
+  "photo": "case_assets/bit/2010_Bio-Soft_DSC_1533.JPG",
+  "dirs": [
+   "BioSoft-2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_Bio-Soft.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCVI",
+  "zh": "国际疫苗免疫大会",
+  "en": "World Congress of Vaccine Immunology",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCVI_2010抗体 疫苗集体照.jpg",
+  "dirs": [
+   "WCV&ICA2010",
+   "WCVI2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCVI.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "WCV",
+  "zh": "国际疫苗大会",
+  "en": "World Congress of Vaccines",
+  "note": "",
+  "photo": "case_assets/bit/2010_WCV_IMG_0941.JPG",
+  "dirs": [
+   "WCV-2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_WCV.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "NT",
+  "zh": "国际神经科技大会",
+  "en": "Neurotalk / World Congress of Neurotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2010_NT_H1090030.JPG",
+  "dirs": [
+   "NT 2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_NT.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会",
+  "en": "World Congress of Nano Science & Technology",
+  "note": "",
+  "photo": "case_assets/bit/2010_Nano_IDDST&NANO合影.jpg",
+  "dirs": [
+   "2010.10新药&纳米",
+   "Nanomedicine-2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_Nano.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "MDPM",
+  "zh": "国际药物与医学大会",
+  "en": "Medicine & Drug Precision Meeting",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "MDPM-2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_MDPM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2010",
+  "brand": "ICM",
+  "zh": "国际药物化学大会",
+  "en": "International Congress of Medicinal Chemistry",
+  "note": "",
+  "photo": "case_assets/bit/2010_ICM_IMG_6688.JPG",
+  "dirs": [
+   "ICM-2010",
+   "ICM2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_ICM.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": "case_assets/bit/2010_SEB_DSC_4188.jpg",
+  "dirs": [
+   "SEB-2010",
+   "SEB2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_SEB.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2010_RMSC_RMSC合影.jpg",
+  "dirs": [
+   "RMSC2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_RMSC.jpg"
+ },
+ {
+  "year": "2010",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": "case_assets/bit/2010_PepCon_DSC_7365.JPG",
+  "dirs": [
+   "PepCon2010"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2010_PepCon.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "u-world",
+  "zh": "u-world 物联网平行会议",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2011_u-world_DSC_7640.JPG",
+  "photo_file": "2011_u-world.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2011",
+  "brand": "WCCL",
+  "zh": "世界临床实验室大会",
+  "en": "World Congress of Clinical Laboratory",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCCL2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCCL.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "WCIT",
+  "zh": "世界信息技术大会",
+  "en": "World Congress of Information Technology",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCIT_RTM_6501.JPG",
+  "dirs": [
+   "WCIT2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCIT.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCE",
+  "zh": "世界内分泌与代谢大会",
+  "en": "World Congress of Endocrinology",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCE_DSC_7672.JPG",
+  "dirs": [
+   "2011.1厦门内分泌及代谢",
+   "WCE 2011",
+   "WCE2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCE.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCAB",
+  "zh": "世界农业生物技术大会",
+  "en": "World Congress of Agri-Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCAB_SWL_5075.JPG",
+  "dirs": [
+   "WCAB-2011",
+   "WCAB2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCAB.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": "case_assets/bit/2011_CMCB_CMCB Group Photo.jpg",
+  "dirs": [
+   "CMCB2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_CMCB.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCHFA",
+  "zh": "世界医疗与健康论坛",
+  "en": "World Congress of Health Forum",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wchfa2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCHFA.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "WSEOR",
+  "zh": "世界可持续能源与资源大会",
+  "en": "World Summit on Sustainable Energy & Resources",
+  "note": "",
+  "photo": "",
+  "dirs": [
+   "WSEOR-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2011",
+  "brand": "WCSR",
+  "zh": "世界干细胞研究大会",
+  "en": "World Congress of Stem Cell Research",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCSR2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCSR.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "WCM",
+  "zh": "世界微生物大会",
+  "en": "World Congress of Microbiology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCM2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "wcuh",
+  "zh": "世界智能家居大会",
+  "en": "World Congress of U-Home",
+  "note": "",
+  "photo": "case_assets/bit/2011_wcuh_DSC_0001.JPG",
+  "dirs": [
+   "wcuh2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_wcuh.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCMB",
+  "zh": "世界海洋生物技术大会",
+  "en": "World Congress of Marine Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCMB_DSC_6531.JPG",
+  "dirs": [
+   "Wcmb-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCMB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "WCF",
+  "zh": "世界渔业大会",
+  "en": "World Congress of Fishery",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCF_DSC_5784.JPG",
+  "dirs": [
+   "WCF2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCF.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCBC",
+  "zh": "世界生物化学大会",
+  "en": "World Congress of Biochemistry",
+  "note": "",
+  "photo": "",
+  "dirs": [
+   "WCBC2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2011",
+  "brand": "WCBE",
+  "zh": "世界生物能源大会",
+  "en": "World Congress on Bioenergy",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCBE_DSC_6515.JPG",
+  "dirs": [
+   "wcbe-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCBE.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCC_DSC_0182.JPG",
+  "dirs": [
+   "2011.5月大连癌症&神经科"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "WCCAS",
+  "zh": "世界细胞与干细胞大会",
+  "en": "World Congress of Cell & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCCAS_DSC_4231.JPG",
+  "dirs": [
+   "WCCAS-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCCAS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "WCB",
+  "zh": "世界细胞生物学大会",
+  "en": "World Congress of Cell Biology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCB2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "HIV",
+  "zh": "世界艾滋病大会",
+  "en": "World Congress on HIV/AIDS",
+  "note": "",
+  "photo": "case_assets/bit/2011_HIV_DSC_3776.JPG",
+  "dirs": [
+   "HIV -2011",
+   "HIV2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_HIV.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCP",
+  "zh": "世界药理学大会",
+  "en": "World Congress of Pharmacology",
+  "note": "",
+  "photo": "case_assets/bit/2011_WCP_IMG_8339.JPG",
+  "dirs": [
+   "WCP-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WCP.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "CMBF",
+  "zh": "中国医药生物技术论坛",
+  "en": "China Medical Bio-tech Forum",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CMBF-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_CMBF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "TALENT",
+  "zh": "中国国际人才交流大会",
+  "en": "TALENT",
+  "note": "",
+  "photo": "case_assets/bit/2011_TALENT_IMG_2885.jpg",
+  "dirs": [
+   "第十届国际人才交流大会 2011.11.3-11.7"
+  ],
+  "city": "深圳",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_TALENT.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "ICA",
+  "zh": "北京抗体会议",
+  "city": "北京",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2011_ICA_DSC_8636.JPG",
+  "photo_file": "2011_ICA.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2011",
+  "brand": "IBIO",
+  "zh": "北京生物技术会议",
+  "city": "北京",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2011_IBIO_11-7国际会议中心大合影.jpg",
+  "photo_file": "2011_IBIO.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2011",
+  "brand": "WCV",
+  "zh": "北京疫苗会议",
+  "city": "北京",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2011_WCV_DSC_6515.JPG",
+  "photo_file": "2011_WCV.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2011",
+  "brand": "PepCon",
+  "zh": "北京蛋白质会议",
+  "city": "北京",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2011_PepCon_DSC_6531.JPG",
+  "photo_file": "2011_PepCon.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2011",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2011_WDD_IMG_1023.JPG",
+  "dirs": [
+   "WDD-2011",
+   "WDD2011"
+  ],
+  "city": "大连",
+  "edition": "第二届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_WDD.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "HPV",
+  "zh": "国际HPV大会",
+  "en": "International Congress on HPV",
+  "note": "",
+  "photo": "case_assets/bit/2011_HPV_11月16广州乳腺癌合影.jpg",
+  "dirs": [
+   "HPV-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_HPV.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "LCES",
+  "zh": "国际低碳能源峰会",
+  "en": "Low Carbon Energy Summit",
+  "note": "",
+  "photo": "case_assets/bit/2011_LCES_DSC_0253.JPG",
+  "dirs": [
+   "2011.10大连低碳会议",
+   "lces2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_LCES.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "OFC",
+  "zh": "国际前沿化学大会（OFC 平行会）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2011_OFC_低碳&环境合影.jpg",
+  "photo_file": "2011_OFC.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2011",
+  "brand": "CEMD",
+  "zh": "国际化学、能源与环境材料设计大会",
+  "en": "Congress on Chemical, Energy & Material Design",
+  "note": "",
+  "photo": "case_assets/bit/2011_CEMD_DSC_0915.JPG",
+  "dirs": [
+   "CEMD2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_CEMD.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "MTS",
+  "zh": "国际医疗与科技峰会",
+  "en": "Medical & Technology Summit",
+  "note": "",
+  "photo": "case_assets/bit/2011_MTS_RTM_6501.JPG",
+  "dirs": [
+   "MTS2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_MTS.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": "case_assets/bit/2011_ICC_DSC_4657.JPG",
+  "dirs": [
+   "ICC-2011",
+   "ICC2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_ICC.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "NEF",
+  "zh": "国际新能源论坛",
+  "en": "New Energy Forum",
+  "note": "",
+  "photo": "",
+  "dirs": [
+   "NEF2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2011",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2011_IDDST_DSC_6531.JPG",
+  "dirs": [
+   "IDDST2011"
+  ],
+  "city": "大连",
+  "edition": "第九届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_IDDST.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "UOG",
+  "zh": "国际泌尿与妇产大会",
+  "en": "Urology & Obstetrics/Gynecology",
+  "note": "",
+  "photo": "",
+  "dirs": [
+   "UOG-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2011",
+  "brand": "Bio-Soft",
+  "zh": "国际生物软件大会",
+  "en": "International Congress on Bioinformatics",
+  "note": "",
+  "photo": "case_assets/bit/2011_Bio-Soft_DSC_4996.JPG",
+  "dirs": [
+   "BioSoft 2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2011",
+  "brand": "NT",
+  "zh": "国际神经科技大会",
+  "en": "Neurotalk / World Congress of Neurotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2011_NT_DSC_0182.JPG",
+  "dirs": [
+   "NT-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_NT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会",
+  "en": "World Congress of Nano Science & Technology",
+  "note": "",
+  "photo": "case_assets/bit/2011_Nano_DSC_9545.JPG",
+  "dirs": [
+   "Nano2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_Nano.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "SAR",
+  "zh": "国际结构与活性关系大会",
+  "en": "Structure-Activity Relationship Congress",
+  "note": "",
+  "photo": "case_assets/bit/2011_SAR_SAR.jpg",
+  "dirs": [
+   "SAR-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_SAR.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "ICM",
+  "zh": "国际药物化学大会",
+  "en": "International Congress of Medicinal Chemistry",
+  "note": "",
+  "photo": "case_assets/bit/2011_ICM_ICM.jpg",
+  "dirs": [
+   "ICM2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_ICM.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会",
+  "en": "International Symposium of Drug Delivery Systems",
+  "note": "",
+  "photo": "case_assets/bit/2011_SDDS_DSC_9363.JPG",
+  "dirs": [
+   "SDDS-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_SDDS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": "",
+  "dirs": [
+   "SEB-2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2011",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2011_RMSC_DSC_7704.JPG",
+  "dirs": [
+   "RMSC2011"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_RMSC.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "WCEB",
+  "zh": "环境生物技术平行会议",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2011 低碳会议平行会",
+  "edition": "",
+  "photo": "case_assets/bit/2011_WCEB_2011.3北京合影.jpg",
+  "photo_file": "2011_WCEB.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "wcpg",
+  "zh": "药理学平行会议",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2011 低碳会议平行会",
+  "edition": "",
+  "photo": "case_assets/bit/2011_wcpg_2011.3北京合影.jpg",
+  "photo_file": "2011_wcpg.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2011",
+  "brand": "NOBEL",
+  "zh": "诺贝尔奖得主论坛与合作档案",
+  "en": "NOBEL",
+  "note": "",
+  "photo": "case_assets/bit/2011_NOBEL_WCE合影.jpg",
+  "dirs": [
+   "第十届国际人才交流大会 2011.11月梅总与诺奖合影"
+  ],
+  "city": "深圳·大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_NOBEL.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "FORENSIC",
+  "zh": "重庆法医大会",
+  "en": "FORENSIC",
+  "note": "",
+  "photo": "case_assets/bit/2011_FORENSIC_法医大会合影.jpg",
+  "dirs": [
+   "2011.10 重庆法医大会"
+  ],
+  "city": "重庆",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_FORENSIC.jpg"
+ },
+ {
+  "year": "2011",
+  "brand": "AGRI",
+  "zh": "长春农业会议",
+  "en": "AGRI",
+  "note": "",
+  "photo": "case_assets/bit/2011_AGRI_合影.JPG",
+  "dirs": [
+   "2011.10 长春农业"
+  ],
+  "city": "长春",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2011_AGRI.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "IT",
+  "zh": "IT 集群会议（8 月）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2012_IT_DSC_7467.JPG",
+  "planned": false,
+  "status": "held",
+  "photo_file": "2012_IT.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WCAB",
+  "zh": "世界农业生物技术大会",
+  "en": "World Congress of Agri-Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2012_WCAB__MG_4441.JPG",
+  "dirs": [
+   "WCAB-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WCAB.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WSEOR",
+  "zh": "世界可持续能源与资源大会",
+  "en": "World Summit on Sustainable Energy & Resources",
+  "note": "",
+  "photo": "case_assets/bit/2012_WSEOR__MG_4438.JPG",
+  "dirs": [
+   "WSEOR2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WSEOR.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WCM",
+  "zh": "世界微生物大会",
+  "en": "World Congress of Microbiology",
+  "note": "",
+  "photo": "case_assets/bit/2012_WCM_未标题_全景图1.jpg",
+  "dirs": [
+   "2012.7.30广州微生物",
+   "WCM 2012",
+   "WCM2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WCM.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WCO",
+  "zh": "世界海洋大会",
+  "en": "World Congress of Ocean",
+  "note": "",
+  "photo": "case_assets/bit/2012_WCO_DSC_8626.JPG",
+  "dirs": [
+   "20120920海洋大会",
+   "海洋大会新闻发布会2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WCO.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WCMB",
+  "zh": "世界海洋生物技术大会",
+  "en": "World Congress of Marine Biotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2012_WCMB_DSC_8626.JPG",
+  "dirs": [
+   "WCMB-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WCMB.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "u-world",
+  "zh": "世界物联网大会",
+  "en": "U-World Congress",
+  "note": "",
+  "photo": "case_assets/bit/2012_u-world_全景图 6.JPG",
+  "dirs": [
+   "u-world2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_u-world.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WEW",
+  "zh": "世界能源周",
+  "en": "World Energy Week",
+  "note": "",
+  "photo": "case_assets/bit/2012_WEW__MG_4441.JPG",
+  "dirs": [
+   "WEW-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WEW.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WCP",
+  "zh": "世界药理学大会",
+  "en": "World Congress of Pharmacology",
+  "note": "",
+  "photo": "case_assets/bit/2012_WCP__MG_4438.JPG",
+  "dirs": [
+   "WCP2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WCP.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "CloudCon",
+  "zh": "云计算大会",
+  "en": "Cloud Computing Conference",
+  "note": "",
+  "photo": "case_assets/bit/2012_CloudCon_DSC_8028.JPG",
+  "dirs": [
+   "CloudCon-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_CloudCon_fix.jpg",
+  "photo_placeholder": false
+ },
+ {
+  "year": "2012",
+  "brand": "WCAM",
+  "zh": "北京新材料大会（6 月）",
+  "city": "北京",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2012_WCAM_DSC_2028.JPG",
+  "planned": false,
+  "status": "held",
+  "photo_file": "2012_WCAM.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2012_WDD__MG_4451.JPG",
+  "dirs": [
+   "WDD2012"
+  ],
+  "city": "大连",
+  "edition": "第三届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_WDD.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "CCT",
+  "zh": "国际催化大会",
+  "en": "International Conference on Catalysis",
+  "note": "",
+  "photo": "case_assets/bit/2012_CCT__MG_4449.JPG",
+  "dirs": [
+   "cct-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_CCT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2012",
+  "brand": "AICMA",
+  "zh": "国际先进材料大会",
+  "en": "Advanced International Conference on Materials",
+  "note": "",
+  "photo": "case_assets/bit/2012_AICMA__MG_4451.JPG",
+  "dirs": [
+   "AICMA-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_AICMA.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2012",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会",
+  "en": "International Conference of AnalytiX",
+  "note": "",
+  "photo": "case_assets/bit/2012_AnalytiX_DSC_1415合.jpg",
+  "dirs": [
+   "AnalytiX2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_AnalytiX.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "MTS",
+  "zh": "国际医疗与科技峰会",
+  "en": "Medical & Technology Summit",
+  "note": "",
+  "photo": "",
+  "dirs": [
+   "MTS-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": null
+ },
+ {
+  "year": "2012",
+  "brand": "DNADAY",
+  "zh": "国际基因节（世界DNA日）",
+  "en": "World DNA Day",
+  "note": "",
+  "photo": "case_assets/bit/2012_DNADAY_P1010636.JPG",
+  "dirs": [
+   "2012DNADAY",
+   "DNADay2012"
+  ],
+  "city": "大连",
+  "edition": "第三届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_DNADAY.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": "case_assets/bit/2012_ICC_groupphoto.jpg",
+  "dirs": [
+   "ICC2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_ICC.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2012_IDDST_DPP_0007 Panorama.jpg",
+  "dirs": [
+   "2012南京第十届国际新药发明科技年会11.08",
+   "IDDST 2012"
+  ],
+  "city": "南京",
+  "edition": "第十届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_IDDST.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "AISH",
+  "zh": "国际智能家居大会",
+  "en": "International Summit on Smart Home",
+  "note": "",
+  "photo": "case_assets/bit/2012_AISH_2012.6.15.jpg",
+  "dirs": [
+   "AISH-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_AISH.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "Bio-Soft",
+  "zh": "国际生物软件大会",
+  "en": "International Congress on Bioinformatics",
+  "note": "",
+  "photo": "case_assets/bit/2012_Bio-Soft_DSC_1415合.jpg",
+  "dirs": [
+   "Biosoft-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_Bio-Soft.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2012",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会",
+  "en": "World Congress of Nano Science & Technology",
+  "note": "",
+  "photo": "case_assets/bit/2012_Nano_IMG_5045.jpg",
+  "dirs": [
+   "2012青岛纳米"
+  ],
+  "city": "青岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_Nano.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会",
+  "en": "International Symposium of Drug Delivery Systems",
+  "note": "",
+  "photo": "case_assets/bit/2012_SDDS__MG_4450.JPG",
+  "dirs": [
+   "SDDS-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_SDDS.jpg"
+ },
+ {
+  "year": "2012",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": "case_assets/bit/2012_SEB__MG_4446.JPG",
+  "dirs": [
+   "SEB-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_SEB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2012",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "RMSC-2012"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2012_RMSC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2012",
+  "brand": "WCBE",
+  "zh": "生物能源大会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2012_WCBE_2012广州微生物.jpg",
+  "status": "held",
+  "photo_file": "2012_WCBE.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "FIN",
+  "zh": "FIN 国际食品与营养大会（10 月）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2013_FIN_DSC_4078.JPG",
+  "photo_file": "2013_FIN_fix.jpg",
+  "status": "held",
+  "photo_placeholder": false
+ },
+ {
+  "year": "2013",
+  "brand": "WCIT",
+  "zh": "世界信息技术大会",
+  "en": "World Congress of Information Technology",
+  "note": "",
+  "photo": "case_assets/bit/2013_WCIT_Group Photo.JPG",
+  "dirs": [
+   "WCIT2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCIT.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "WCE",
+  "zh": "世界内分泌与代谢大会",
+  "en": "World Congress of Endocrinology",
+  "note": "",
+  "photo": "case_assets/bit/2013_WCE_2011.jpg",
+  "dirs": [
+   "WCE2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCE.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": "case_assets/bit/2013_CMCB_DSC_3593.JPG",
+  "dirs": [
+   "CMCB2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_CMCB.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "GCC-2013",
+  "zh": "世界化学大会",
+  "en": "World Chemistry Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "GCC2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_GCC-2013.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "WCM",
+  "zh": "世界微生物大会",
+  "en": "World Congress of Microbiology",
+  "note": "",
+  "photo": "case_assets/bit/2013_WCM_DSC_3559.JPG",
+  "dirs": [
+   "WCM2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCM_fix.jpg",
+  "photo_placeholder": false
+ },
+ {
+  "year": "2013",
+  "brand": "WCAM",
+  "zh": "世界新材料大会",
+  "en": "World Congress of Advanced Materials",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCAM2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCAM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "WCMB-2013",
+  "zh": "世界海洋生物技术大会",
+  "en": "World Congress of Marine Biotechnology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCMB-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCMB-2013.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "ICE",
+  "zh": "世界环境大会",
+  "en": "International Congress of Environment",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICE-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_ICE.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "WCBE",
+  "zh": "世界生物能源大会",
+  "en": "World Congress on Bioenergy",
+  "note": "",
+  "photo": "case_assets/bit/2013_WCBE_DSC_3559.JPG",
+  "dirs": [
+   "wcbe2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCBE_fix.jpg",
+  "photo_placeholder": false
+ },
+ {
+  "year": "2013",
+  "brand": "WCA",
+  "zh": "世界癌症免疫治疗大会",
+  "en": "World Congress of Cancer Immunotherapy",
+  "note": "",
+  "photo": "case_assets/bit/2013_WCA_group photo.jpg",
+  "dirs": [
+   "WCA2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCA.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCC2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "WCGG",
+  "zh": "世界老年学与老年医学大会",
+  "en": "World Congress of Gerontology & Geriatrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCGG 2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCGG.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "WCD",
+  "zh": "世界药物化学大会",
+  "en": "World Congress of Drug Chemistry",
+  "note": "",
+  "photo": "case_assets/bit/2013_WCD_集体照.jpg",
+  "dirs": [
+   "WCD2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCD.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "Food",
+  "zh": "世界食品科技大会",
+  "en": "World Congress on Food Science & Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Food S&T-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_Food.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "CloudCon",
+  "zh": "云计算大会",
+  "en": "Cloud Computing Conference",
+  "note": "",
+  "photo": "case_assets/bit/2013_CloudCon_DSC_0001.JPG",
+  "dirs": [
+   "cloudcon2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_CloudCon.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2013_WDD_DSC_3563.JPG",
+  "dirs": [
+   "WDD2013"
+  ],
+  "city": "大连",
+  "edition": "第四届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WDD.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "LCES",
+  "zh": "国际低碳能源峰会",
+  "en": "Low Carbon Energy Summit",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "LCES-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_LCES.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "InfoTech",
+  "zh": "国际信息技术大会",
+  "en": "International Congress on Information Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "InfoTech2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_InfoTech.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "CCT",
+  "zh": "国际催化大会",
+  "en": "International Conference on Catalysis",
+  "note": "",
+  "photo": "case_assets/bit/2013_CCT_合影.jpg",
+  "dirs": [
+   "CCT2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_CCT.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "Pediatrics",
+  "zh": "国际儿科健康大会",
+  "en": "World Congress of Pediatrics",
+  "note": "",
+  "photo": "case_assets/bit/2013_Pediatrics_DSC_3559.JPG",
+  "dirs": [
+   "Pediatrics 2013"
+  ],
+  "city": "太原",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_Pediatrics.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会",
+  "en": "International Conference of AnalytiX",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AnalytiX2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_AnalytiX.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "MTS",
+  "zh": "国际医疗与科技峰会",
+  "en": "Medical & Technology Summit",
+  "note": "",
+  "photo": "case_assets/bit/2013_MTS_DSC_0001.JPG",
+  "dirs": [
+   "MTS 2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_MTS.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "IBIO",
+  "zh": "国际工业生物技术大会",
+  "en": "International Congress of Industrial Biotechnology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ibio2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_IBIO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "ICC",
+  "zh": "国际心脏病大会（12 月）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2013_ICC_DSC_4526.JPG",
+  "photo_file": "2013_ICC.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2013",
+  "brand": "AICA",
+  "zh": "国际抗体与免疫大会",
+  "en": "Annual International Congress on Antibodies",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AICA-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_AICA.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "ICA",
+  "zh": "国际抗体大会",
+  "en": "International Congress of Antibodies",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICA2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_ICA.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "NEF",
+  "zh": "国际新能源论坛",
+  "en": "New Energy Forum",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "NEF-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_NEF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2013_IDDST_DSC_3559.JPG",
+  "dirs": [
+   "IDDST2013"
+  ],
+  "city": "大连",
+  "edition": "第十一届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_IDDST_fix.jpg",
+  "photo_placeholder": false
+ },
+ {
+  "year": "2013",
+  "brand": "ASDD",
+  "zh": "国际新药发现与开发大会",
+  "en": "Annual Symposium on Drug Discovery",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ASDD 2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_ASDD.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "u-home",
+  "zh": "国际智能家居大会",
+  "en": "U-Home Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "u-home2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_u-home.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "ICEI",
+  "zh": "国际清洁能源大会",
+  "en": "International Congress on Clean Energy",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICEI-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_ICEI.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "WCV",
+  "zh": "国际疫苗大会",
+  "en": "World Congress of Vaccines",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCV2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_WCV.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "NT",
+  "zh": "国际神经科技大会",
+  "en": "Neurotalk / World Congress of Neurotechnology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "NT2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_NT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会",
+  "en": "World Congress of Nano Science & Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Nanomedicine2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_Nano.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "ICM",
+  "zh": "国际药物化学大会",
+  "en": "International Congress of Medicinal Chemistry",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICM2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_ICM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "MDCS",
+  "zh": "国际药物化学峰会",
+  "en": "Medicinal Drug Chemistry Summit",
+  "note": "",
+  "photo": "case_assets/bit/2013_MDCS_DSC_3562.JPG",
+  "dirs": [
+   "MDCS 2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_MDCS.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会",
+  "en": "International Symposium of Drug Delivery Systems",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "SDDS-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_SDDS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "SEB2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_SEB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2013",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2013_RMSC_DSC_3570.JPG",
+  "dirs": [
+   "RMSC-2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_RMSC.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "HANGZHOU",
+  "zh": "杭州会议（9 月）",
+  "city": "杭州",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2013_HANGZHOU_230913_30.JPG",
+  "photo_file": "2013_HANGZHOU.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2013",
+  "brand": "euroasiaforum",
+  "zh": "欧亚经济论坛",
+  "en": "Euro-Asia Economic Forum",
+  "note": "",
+  "photo": "case_assets/bit/2013_euroasiaforum_2013.3杭州合影.jpg",
+  "dirs": [
+   "euroasiaforum2013"
+  ],
+  "city": "西安",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_euroasiaforum.jpg"
+ },
+ {
+  "year": "2013",
+  "brand": "HAIKOU",
+  "zh": "海口会议",
+  "city": "海口",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2013_HAIKOU_50X10.jpg",
+  "photo_file": "2013_HAIKOU.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2013",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "PepCon2013"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2013_PepCon.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "3DPWC",
+  "zh": "3D打印世界大会",
+  "en": "3D Printing World Congress",
+  "note": "",
+  "photo": "case_assets/bit/2014_3DPWC_2014百奥泰（第三界世界海洋大会、国际潜水救捞与海洋工程技术论坛）0008.jpg",
+  "dirs": [
+   "3DPWC 2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_3DPWC.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "GCC",
+  "zh": "世界化学大会",
+  "en": "World Chemistry Congress",
+  "note": "",
+  "photo": "case_assets/bit/2014_GCC_Refund-Hong-Seok Park.jpg",
+  "dirs": [
+   "GCC-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_GCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCG",
+  "zh": "世界基因大会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2014_WCG_2014百奥泰（第三界世界海洋大会、国际潜水救捞与海洋工程技术论坛）0009.jpg",
+  "status": "held",
+  "photo_file": "2014_WCG.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "WCM",
+  "zh": "世界微生物大会",
+  "en": "World Congress of Microbiology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCM-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCOS",
+  "zh": "世界海洋科技大会",
+  "en": "World Congress of Ocean Science",
+  "note": "",
+  "photo": "case_assets/bit/2014_WCOS_banner.jpg",
+  "dirs": [
+   "WCOS-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCOS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCAF",
+  "zh": "世界渔业大会",
+  "en": "World Congress of Aquaculture & Fishery",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCAF-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCAF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCA",
+  "zh": "世界癌症免疫治疗大会",
+  "en": "World Congress of Cancer Immunotherapy",
+  "note": "",
+  "photo": "case_assets/bit/2014_WCA_2014百奥泰（第三界世界海洋大会、国际潜水救捞与海洋工程技术论坛）0008.jpg",
+  "dirs": [
+   "WCA-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCA.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCC2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCGG",
+  "zh": "世界老年学与老年医学大会",
+  "en": "World Congress of Gerontology & Geriatrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCGG-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCGG.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WEW",
+  "zh": "世界能源周",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2014_WEW_2014百奥泰（第三界世界海洋大会、国际潜水救捞与海洋工程技术论坛）0009.jpg",
+  "status": "held",
+  "photo_file": "2014_WEW.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "WEW,WCG,CCT",
+  "zh": "世界能源周暨世界基因大会、国际催化大会",
+  "en": "World Energy Week & Congress",
+  "note": "",
+  "photo": "case_assets/bit/2014_WEW,WCG,CCT_Refund-Hong-Seok Park.jpg",
+  "dirs": [
+   "WEW,WCG,CCT"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WEWWCGCCT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "Food",
+  "zh": "世界食品科技大会",
+  "en": "World Congress on Food Science & Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Food&WGF-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_Food.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCORT",
+  "zh": "世界骨科大会",
+  "en": "World Congress of Orthopaedics",
+  "note": "",
+  "photo": "case_assets/bit/2014_WCORT_Group Photo.jpg",
+  "dirs": [
+   "WCORT-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCORT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会",
+  "en": "Global Congress of Knowledge Economy",
+  "note": "",
+  "photo": "case_assets/bit/2014_GCKE_IMG_20140921_091230.jpg",
+  "dirs": [
+   "知识经济 2014"
+  ],
+  "city": "青岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_GCKE.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "CODM",
+  "zh": "口腔与牙科医学大会",
+  "en": "World Congress of Oral & Dental Medicine",
+  "note": "",
+  "photo": "case_assets/bit/2014_CODM_Keynote-Nalin Thakker.JPG",
+  "dirs": [
+   "CODM-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_CODM.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2014_WDD_2014百奥泰（第三界世界海洋大会、国际潜水救捞与海洋工程技术论坛）0030.jpg",
+  "dirs": [
+   "WDD-2014"
+  ],
+  "city": "大连",
+  "edition": "第五届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WDD.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "Pediatrics",
+  "zh": "国际儿科健康大会",
+  "en": "World Congress of Pediatrics",
+  "note": "",
+  "photo": "case_assets/bit/2014_Pediatrics_1F.jpg",
+  "dirs": [
+   "儿科 2014"
+  ],
+  "city": "太原",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_Pediatrics.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会",
+  "en": "International Conference of AnalytiX",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AnalytiX-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_AnalytiX.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "AWCD",
+  "zh": "国际创新药物发现大会",
+  "en": "Annual World Congress of Drug Discovery",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AWCD-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_AWCD.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WGC",
+  "zh": "国际基因产业大会（11 月）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2014_WGC_36x12.jpg",
+  "photo_file": "2014_WGC.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2014",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": "case_assets/bit/2014_ICC_36x12.jpg",
+  "dirs": [
+   "icc2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_ICC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "ICA",
+  "zh": "国际抗体大会",
+  "en": "International Congress of Antibodies",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICA-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_ICA.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2014_IDDST_IDDST合影.jpg",
+  "dirs": [
+   "IDDST2014"
+  ],
+  "city": "太原",
+  "edition": "第十二届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_IDDST.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "DSOS",
+  "zh": "国际海洋与海洋工程大会",
+  "en": "Deep Sea & Ocean Summit",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "DSOS-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_DSOS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCV",
+  "zh": "国际疫苗大会",
+  "en": "World Congress of Vaccines",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCV 2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCV.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "EIF",
+  "zh": "国际能源创新论坛",
+  "en": "Energy Innovation Forum",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "EIF2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_EIF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "ICM",
+  "zh": "国际药物化学大会",
+  "en": "International Congress of Medicinal Chemistry",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICM2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_ICM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "TMPS",
+  "zh": "国际转化医学与精准医疗大会",
+  "en": "Translational Medicine & Precision Summit",
+  "note": "",
+  "photo": "case_assets/bit/2014_TMPS_2014百奥泰（第三界世界海洋大会、国际潜水救捞与海洋工程技术论坛）0008.jpg",
+  "dirs": [
+   "TMPS-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_TMPS.jpg"
+ },
+ {
+  "year": "2014",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "SEB-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_SEB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "MTS",
+  "zh": "太原健康大会（9 月）",
+  "city": "太原",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2014_MTS_IMG_20141025_092603.jpg",
+  "photo_file": "2014_MTS.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2014",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "RMSC-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_RMSC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "AICA-WCMB",
+  "zh": "抗体免疫与海洋生物技术联合大会",
+  "en": "AICA-WCMB Joint Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AICA-WCMB-2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_AICA-WCMB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "WCO",
+  "zh": "海洋大会（10 月）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2014_WCO_Group Photo.jpg",
+  "photo_file": "2014_WCO.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2014",
+  "brand": "WCD&WCE",
+  "zh": "药物化学与内分泌代谢联合大会",
+  "en": "WCD & WCE Joint Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCD&WCE",
+   "WCD&WCE2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_WCDWCE.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "PepCon-2014",
+   "PepCon2014"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2014_PepCon.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2014",
+  "brand": "Nano",
+  "zh": "黄岛纳米科技大会（9 月）",
+  "city": "青岛黄岛",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2014_Nano_IMG_20141029_091306.jpg",
+  "photo_file": "2014_Nano.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2015_RMSC_JD8A2431.JPG",
+  "dirs": [
+   "Rmsc2015",
+   "rmsc-2015 Korea"
+  ],
+  "city": "大连·韩国",
+  "edition": "",
+  "country": "韩国",
+  "tier": "国际",
+  "status": "held",
+  "photo_file": "2015_RMSC.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CMCB2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_CMCB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "GCC",
+  "zh": "世界化学大会",
+  "en": "World Chemistry Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "GCC-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_GCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "WCU",
+  "zh": "世界城市大会",
+  "en": "World Congress of Urbanization",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCU-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCU.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "WCM",
+  "zh": "世界微生物大会",
+  "en": "World Congress of Microbiology",
+  "note": "",
+  "photo": "case_assets/bit/2015_WCM_JD8A2342.JPG",
+  "dirs": [
+   "WCM-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCM.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "WCAM",
+  "zh": "世界新材料大会",
+  "en": "World Congress of Advanced Materials",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCAM2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCAM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "WCSM",
+  "zh": "世界智能材料大会",
+  "en": "World Congress of Smart Materials",
+  "note": "",
+  "photo": "case_assets/bit/2015_WCSM_DSC_1025.JPG",
+  "dirs": [
+   "WCSM-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCSM.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "WCO-2015",
+  "zh": "世界海洋大会",
+  "en": "World Congress of Ocean",
+  "note": "",
+  "photo": "case_assets/bit/2015_WCO-2015_合影副本.jpg",
+  "dirs": [
+   "WCO-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "photo_file": "2015_WCO-2015.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "WCDD-2015",
+  "zh": "世界消化疾病大会",
+  "en": "World Congress of Digestive Disease",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCDD-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCDD-2015.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCC2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "WCORT",
+  "zh": "世界骨科大会",
+  "en": "World Congress of Orthopaedics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCORT-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCORT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会",
+  "en": "Global Congress of Knowledge Economy",
+  "note": "",
+  "photo": "case_assets/bit/2015_GCKE_JD8A2435.JPG",
+  "dirs": [
+   "GCKE2015"
+  ],
+  "city": "青岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_GCKE.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "BEIJING-M",
+  "zh": "北京会议（5 月）",
+  "city": "北京",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2015_BEIJING-M_IMG_4254.jpg",
+  "photo_file": "2015_BEIJING-M.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "CODM",
+  "zh": "口腔与牙科医学大会",
+  "en": "World Congress of Oral & Dental Medicine",
+  "note": "",
+  "photo": "case_assets/bit/2015_CODM_DSC_0085.JPG",
+  "dirs": [
+   "CODM2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_CODM.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2015_WDD_JD8A2410.JPG",
+  "dirs": [
+   "WDD2015"
+  ],
+  "city": "大连",
+  "edition": "第六届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WDD.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "InfoTech",
+  "zh": "国际信息技术大会",
+  "en": "International Congress on Information Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Infotech2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_InfoTech.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "CCT",
+  "zh": "国际催化大会",
+  "en": "International Conference on Catalysis",
+  "note": "",
+  "photo": "case_assets/bit/2015_CCT_JD8A2431.JPG",
+  "dirs": [
+   "CCT2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_CCT.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "WGC",
+  "zh": "国际基因产业大会",
+  "en": "World Gene Convention",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WGC-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WGC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "IBIO",
+  "zh": "国际工业生物技术大会",
+  "en": "International Congress of Industrial Biotechnology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ibio2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_IBIO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "ICA",
+  "zh": "国际抗体大会",
+  "en": "International Congress of Antibodies",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICA-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_ICA.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "NEF",
+  "zh": "国际新能源论坛",
+  "en": "New Energy Forum",
+  "note": "",
+  "photo": "case_assets/bit/2015_NEF_JD8A2342.JPG",
+  "dirs": [
+   "NEF2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_NEF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会（10 月·大连）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2015_IDDST_JD8A2427.JPG",
+  "status": "held",
+  "photo_file": "2015_IDDST.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "ICEI",
+  "zh": "国际清洁能源大会",
+  "en": "International Congress on Clean Energy",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICEI2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_ICEI.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "WCV",
+  "zh": "国际疫苗大会",
+  "en": "World Congress of Vaccines",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCV-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_WCV.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "NT",
+  "zh": "国际神经科技大会",
+  "en": "Neurotalk / World Congress of Neurotechnology",
+  "note": "",
+  "photo": "case_assets/bit/2015_NT_304.JPG",
+  "dirs": [
+   "3D Printing 2015",
+   "NT-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_NT.jpg"
+ },
+ {
+  "year": "2015",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会",
+  "en": "World Congress of Nano Science & Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Nano 2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_Nano.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "SEB-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_SEB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "ROBOT",
+  "zh": "机器人会议（9 月）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2015_ROBOT_DSC_4026.JPG",
+  "photo_file": "2015_ROBOT.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "HANGZHOU",
+  "zh": "杭州会议（5 月）",
+  "city": "杭州",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2015_HANGZHOU__MG_2440-336.jpg",
+  "photo_file": "2015_HANGZHOU.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "EAEF",
+  "zh": "欧亚经济论坛",
+  "en": "Euro-Asia Economic Forum",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "EAEF-2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_EAEF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2015",
+  "brand": "euroasiaforum",
+  "zh": "欧亚经济论坛（10 月·西安）",
+  "city": "西安",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2015_euroasiaforum_DSC_6307.JPG",
+  "photo_file": "2015_euroasiaforum.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "WCO",
+  "zh": "海洋大会（11 月·大连）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2015_WCO_合影副本.jpg",
+  "photo_file": "2015_WCO.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2015",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "PepCon2015"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2015_PepCon.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "WCSM",
+  "zh": "世界智能材料大会（新加坡站）",
+  "city": "新加坡",
+  "country": "新加坡",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2016_WCSM_DSC_3403.JPG",
+  "photo_file": "2016_WCSM.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2016",
+  "brand": "SPAIN",
+  "zh": "西班牙会议（5 月）",
+  "city": "西班牙",
+  "country": "西班牙",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2016_SPAIN_DSC_4121.jpg",
+  "photo_file": "2016_SPAIN.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2016",
+  "brand": "TOUR",
+  "zh": "一带一路国际旅游城市大会",
+  "city": "西安",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2016.5",
+  "edition": "",
+  "photo": "case_assets/bit/2016_TOUR_DSC_1256.jpg",
+  "photo_file": "2016_TOUR.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2016",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CMCB-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_CMCB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "GCC",
+  "zh": "世界化学大会",
+  "en": "World Chemistry Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "GCC-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_GCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "WCAM",
+  "zh": "世界新材料大会",
+  "en": "World Congress of Advanced Materials",
+  "note": "",
+  "photo": "case_assets/bit/2016_WCAM_DSC_3403.JPG",
+  "dirs": [
+   "WCAM-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WCAM.jpg"
+ },
+ {
+  "year": "2016",
+  "brand": "WCO",
+  "zh": "世界海洋大会",
+  "en": "World Congress of Ocean",
+  "note": "",
+  "photo": "case_assets/bit/2016_WCO_DSC_2537.JPG",
+  "dirs": [
+   "WCO-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WCO.jpg"
+ },
+ {
+  "year": "2016",
+  "brand": "WCF",
+  "zh": "世界渔业大会",
+  "en": "World Congress of Fishery",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCF2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WCF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCC2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "WCORT",
+  "zh": "世界骨科大会",
+  "en": "World Congress of Orthopaedics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCORT-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WCORT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会",
+  "en": "Global Congress of Knowledge Economy",
+  "note": "",
+  "photo": "case_assets/bit/2016_GCKE_DSC_3772.JPG",
+  "dirs": [
+   "gcke-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_GCKE.jpg"
+ },
+ {
+  "year": "2016",
+  "brand": "Health 2.0",
+  "zh": "南京 Health 2.0 大会",
+  "en": "Health 2.0 Nanjing",
+  "note": "",
+  "photo": "case_assets/bit/2016_Health 2.0_开幕式.jpg",
+  "dirs": [
+   "南京会议Health 2.0"
+  ],
+  "city": "南京",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_Health20.jpg"
+ },
+ {
+  "year": "2016",
+  "brand": "CODM",
+  "zh": "口腔与牙科医学大会",
+  "en": "World Congress of Oral & Dental Medicine",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CODM-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_CODM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "WDD & ICG",
+  "zh": "国际DNA和基因组活动周暨国际遗传学大会",
+  "en": "World DNA & Genome Day and Genetics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WDD & ICG-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WDDICG.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "LCGGES-2016",
+  "zh": "国际低碳绿色能源峰会",
+  "en": "LCGGES-2016",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "LCGGES-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_LCGGES-2016.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "LCES",
+  "zh": "国际低碳能源峰会",
+  "en": "Low Carbon Energy Summit",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "LCES-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_LCES.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "CIT",
+  "zh": "国际信息技术与创新大会",
+  "en": "Conference on Information Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CIT-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_CIT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "InfoTech",
+  "zh": "国际信息技术大会",
+  "en": "International Congress on Information Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "InfoTech-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_InfoTech.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "WGC",
+  "zh": "国际基因产业大会",
+  "en": "World Gene Convention",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WGC-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_WGC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "ICGO",
+  "zh": "国际妇产科大会",
+  "en": "International Congress of Gynaecology and Obstetrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICGO-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_ICGO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "IBIO",
+  "zh": "国际工业生物技术大会",
+  "en": "International Congress of Industrial Biotechnology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ibio&SEB-2016",
+   "ibio2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_IBIO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICC China-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_ICC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "EDU",
+  "zh": "国际教育产业大会暨展览会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2016.6",
+  "edition": "",
+  "photo": "case_assets/bit/2016_EDU_照片0517 1612.jpg",
+  "photo_file": "2016_EDU.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2016",
+  "brand": "NEF",
+  "zh": "国际新能源论坛",
+  "en": "New Energy Forum",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "NEF-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_NEF.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2016_IDDST_mmexport1479781445241.jpg",
+  "dirs": [
+   "IDDST-2016"
+  ],
+  "city": "大连",
+  "edition": "第十四届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_IDDST.jpg"
+ },
+ {
+  "year": "2016",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会",
+  "en": "World Congress of Nano Science & Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Nano-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_Nano.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "ICM",
+  "zh": "国际药物化学大会",
+  "en": "International Congress of Medicinal Chemistry",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICM-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_ICM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会",
+  "en": "International Symposium of Drug Delivery Systems",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "SDDS-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_SDDS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "POLICE",
+  "zh": "国际警察科技大会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2016.10",
+  "edition": "",
+  "photo": "case_assets/bit/2016_POLICE_DSC_3444.JPG",
+  "photo_file": "2016_POLICE.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2016",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会",
+  "en": "Symposium on Enzymes & Bio-catalysis",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "seb2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_SEB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2016",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "PepCon-2016"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2016_PepCon.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "WCV",
+  "zh": "国际疫苗大会",
+  "en": "World Congress of Vaccines",
+  "note": "",
+  "photo": "case_assets/bit/2017_WCV_Daria Donati 1.jpg",
+  "dirs": [
+   "WCV-2017 Singapore"
+  ],
+  "city": "新加坡",
+  "edition": "",
+  "country": "新加坡",
+  "tier": "国际",
+  "status": "held",
+  "photo_file": "2017_WCV.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "WCE",
+  "zh": "世界内分泌与代谢大会",
+  "en": "World Congress of Endocrinology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCE&WCD-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCE.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CMCB-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_CMCB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "GCC",
+  "zh": "世界化学大会",
+  "en": "World Chemistry Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "GCC-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_GCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "WED",
+  "zh": "世界教育日大会",
+  "city": "青岛",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2017_WED_4.jpg",
+  "photo_file": "2017_WED.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2017",
+  "brand": "WCSM",
+  "zh": "世界智能材料大会",
+  "en": "World Congress of Smart Materials",
+  "note": "",
+  "photo": "case_assets/bit/2017_WCSM_2017-03-16_0335.jpg",
+  "dirs": [
+   "WCSM-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCSM.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "WCO",
+  "zh": "世界海洋大会",
+  "en": "World Congress of Ocean",
+  "note": "",
+  "photo": "case_assets/bit/2017_WCO_海洋发展黄岛论坛开幕式.jpg",
+  "dirs": [
+   "2017世界海洋大会暨海洋发展黄岛论坛内容",
+   "WCO2017"
+  ],
+  "city": "青岛黄岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCO.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wcc2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "WCGG",
+  "zh": "世界老年学与老年医学大会",
+  "en": "World Congress of Gerontology & Geriatrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCGG-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCGG.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "WCFN",
+  "zh": "世界食品与营养大会",
+  "en": "World Congress of Food and Nutrition",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCFN-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCFN.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "WCORT",
+  "zh": "世界骨科大会",
+  "en": "World Congress of Orthopaedics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCORT2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WCORT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "QINLING",
+  "zh": "丝博会秦岭论坛（6 月）",
+  "city": "宝鸡",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2017_QINLING_2017丝博会秦岭论坛授权书（陕西省会展中心）.jpg",
+  "photo_file": "2017_QINLING.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2017",
+  "brand": "mice",
+  "zh": "中国（青岛）世界会议产业日大会（10 月）",
+  "city": "青岛",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2017_mice_DSC_2376.JPG",
+  "photo_file": "2017_mice.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2017",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会",
+  "en": "Global Congress of Knowledge Economy",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "GCKE2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_GCKE.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "CODM",
+  "zh": "口腔与牙科医学大会",
+  "en": "World Congress of Oral & Dental Medicine",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "CODM-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_CODM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "Pediatrics",
+  "zh": "国际儿科健康大会",
+  "en": "World Congress of Pediatrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Pediatrics2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_Pediatrics.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "MolMed",
+  "zh": "国际分子医学大会",
+  "en": "World Congress of Molecular Medicine",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "MolMed2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_MolMed.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会",
+  "en": "International Conference of AnalytiX",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "analytix2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_AnalytiX.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "GFAC",
+  "zh": "国际功能食品与农业大会",
+  "en": "Global Forum of Agricultural Chemistry",
+  "note": "",
+  "photo": "case_assets/bit/2017_GFAC_02102160011111286343.jpg",
+  "dirs": [
+   "GFAC2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_GFAC.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "ICSW",
+  "zh": "国际可持续水大会",
+  "en": "International Conference on Sustainable Water",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICSW-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_ICSW.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "WGC",
+  "zh": "国际基因产业大会",
+  "en": "World Gene Convention",
+  "note": "",
+  "photo": "case_assets/bit/2017_WGC_03.jpg",
+  "dirs": [
+   "wgc2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_WGC.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "ICGO",
+  "zh": "国际妇产科大会",
+  "en": "International Congress of Gynaecology and Obstetrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICGO2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_ICGO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "ICGO China",
+  "zh": "国际妇产科大会（中国站）",
+  "en": "International Congress of Gynaecology and Obstetrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICGO China-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_ICGOChina.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICC-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_ICC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "IDDST-2017"
+  ],
+  "city": "大连",
+  "edition": "第十五届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_IDDST.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "IDDST-Japan",
+  "zh": "国际新药发明科技年会（日本站）",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "IDDST-Japan 2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_IDDST-Japan.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "Smart Energy",
+  "zh": "国际智能能源大会",
+  "en": "Smart Energy Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Smart Energy-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_SmartEnergy.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "MCM",
+  "zh": "国际材料化学大会",
+  "en": "Materials Chemistry Meeting",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "MCM2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_MCM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "IBC-2017",
+  "zh": "国际生物治疗大会",
+  "en": "International Biotherapy Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "IBC-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_IBC-2017.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "Neurotalk",
+  "zh": "国际神经科技大会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2017 大连",
+  "edition": "",
+  "photo": "case_assets/bit/2017_Neurotalk_1DX_8631.jpg",
+  "photo_file": "2017_Neurotalk.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "NANOST",
+  "zh": "国际纳米科技大会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "Nano S&T-2017",
+  "edition": "",
+  "photo": "case_assets/bit/2017_NANOST_1DX_8631.jpg",
+  "photo_file": "2017_NANOST.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会",
+  "en": "International Symposium of Drug Delivery Systems",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "SDDS-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_SDDS.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "ICG",
+  "zh": "国际遗传学大会",
+  "en": "International Congress of Genetics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICG-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_ICG.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "HAICHUANGZHOU",
+  "zh": "大连海创周·生命科学大数据论坛",
+  "en": "HAICHUANGZHOU",
+  "note": "",
+  "photo": "case_assets/bit/2017_HAICHUANGZHOU_开幕式1.jpg",
+  "dirs": [
+   "2017大连海创周之生命科学大数据论坛"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_HAICHUANGZHOU.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "EAEF",
+  "zh": "欧亚经济论坛之新兴产业论坛",
+  "city": "西安",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2017.9",
+  "edition": "",
+  "photo": "case_assets/bit/2017_EAEF_专场合影.jpg",
+  "photo_file": "2017_EAEF.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2017",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "PepCon-2017"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_PepCon.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2017",
+  "brand": "GREEN",
+  "zh": "西安绿色经济高峰论坛",
+  "en": "GREEN",
+  "note": "",
+  "photo": "case_assets/bit/2017_GREEN_2017创新经济和新兴产业论坛+Naris Bhumpakphan+OF 1148097.jpg",
+  "dirs": [
+   "2017西安绿色经济高峰论坛"
+  ],
+  "city": "西安",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2017_GREEN.jpg"
+ },
+ {
+  "year": "2017",
+  "brand": "COORD",
+  "zh": "配位化学大会",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2017.7",
+  "edition": "",
+  "photo": "case_assets/bit/2017_COORD_DSC_8621.JPG",
+  "photo_file": "2017_COORD.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2018",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": "case_assets/bit/2018_CMCB_晚宴2.jpg",
+  "dirs": [
+   "CMCB-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_CMCB.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "WED",
+  "zh": "世界教育日大会",
+  "en": "World Education Day",
+  "note": "",
+  "photo": "case_assets/bit/2018_WED_555.jpg",
+  "dirs": [
+   "wed2018",
+   "世界教育日"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WED.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "WCAM",
+  "zh": "世界新材料大会",
+  "en": "World Congress of Advanced Materials",
+  "note": "",
+  "photo": "case_assets/bit/2018_WCAM_0001.jpg",
+  "dirs": [
+   "2018第七届新材料"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WCAM.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "WCSM",
+  "zh": "世界智能材料大会",
+  "en": "World Congress of Smart Materials",
+  "note": "",
+  "photo": "case_assets/bit/2018_WCSM_IMG_20180306_085821.jpg",
+  "dirs": [
+   "WCSM-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WCSM.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "WCO",
+  "zh": "世界海洋大会",
+  "en": "World Congress of Ocean",
+  "note": "",
+  "photo": "case_assets/bit/2018_WCO_Group Photo.jpg",
+  "dirs": [
+   "WCO2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WCO.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wcc2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "WCFN",
+  "zh": "世界食品与营养大会",
+  "en": "World Congress of Food and Nutrition",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCFN-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WCFN.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "WCORT",
+  "zh": "世界骨科大会",
+  "en": "World Congress of Orthopaedics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wcort2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WCORT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会",
+  "en": "Global Congress of Knowledge Economy",
+  "note": "",
+  "photo": "case_assets/bit/2018_GCKE_1I5A9822.jpg",
+  "dirs": [
+   "2018.9.7 喜来登酒店 全球知识经济大会_"
+  ],
+  "city": "青岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_GCKE.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "LCES",
+  "zh": "国际低碳能源峰会",
+  "en": "Low Carbon Energy Summit",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "LCES-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_LCES.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "Pediatrics",
+  "zh": "国际儿科健康大会",
+  "en": "World Congress of Pediatrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "Pediatrics-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_Pediatrics.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会",
+  "en": "International Conference of AnalytiX",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AnalytiX2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_AnalytiX.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "WGC",
+  "zh": "国际基因产业大会",
+  "en": "World Gene Convention",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WGC-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_WGC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "ICG",
+  "zh": "国际基因会议",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2018.4",
+  "edition": "",
+  "photo": "case_assets/bit/2018_ICG_DSC_5434.JPG",
+  "photo_file": "2018_ICG.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2018",
+  "brand": "ICGO",
+  "zh": "国际妇产科大会",
+  "en": "International Congress of Gynaecology and Obstetrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICGO-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_ICGO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "ICC",
+  "zh": "国际心脏病大会",
+  "en": "International Congress of Cardiology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "ICC2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_ICC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2018_IDDST_微信图片_20181113101720.jpg",
+  "dirs": [
+   "2018济南IDDST现场照片（11月6-8日）",
+   "IDDST2018-China",
+   "IDDST2018-USA"
+  ],
+  "city": "济南",
+  "edition": "第十六届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_IDDST.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "IBC",
+  "zh": "国际生物治疗大会",
+  "en": "International Biotherapy Congress",
+  "note": "",
+  "photo": "case_assets/bit/2018_IBC_273732269251059590.jpg",
+  "dirs": [
+   "IBC-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_IBC.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会",
+  "en": "International Symposium of Drug Delivery Systems",
+  "note": "",
+  "photo": "case_assets/bit/2018_SDDS_SDDS-Payment_Advice 5.22.jpg",
+  "dirs": [
+   "SDDS-2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_SDDS.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": "case_assets/bit/2018_RMSC_233.jpg",
+  "dirs": [
+   "RMSC2018",
+   "rmsc2018"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_RMSC.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "ROBOT",
+  "zh": "机器人大会",
+  "en": "ROBOT",
+  "note": "",
+  "photo": "case_assets/bit/2018_ROBOT_0831-165.jpg",
+  "dirs": [
+   "20180831机器人大会"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_ROBOT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2018",
+  "brand": "JINAN",
+  "zh": "济南商协会产业对话（4 月）",
+  "city": "济南",
+  "country": "中国",
+  "tier": "国内",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2018_JINAN_对话嘉宾合影.JPG",
+  "photo_file": "2018_JINAN.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2018",
+  "brand": "INTERMETALLIC",
+  "zh": "金属间化合物大会",
+  "en": "INTERMETALLIC",
+  "note": "",
+  "photo": "case_assets/bit/2018_INTERMETALLIC_CG8A4166.jpg",
+  "dirs": [
+   "金属间化合物5.19-20"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_INTERMETALLIC.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "QINGDAO-STRATEGY",
+  "zh": "青岛市国际城市战略专家咨询委员会会议",
+  "en": "QINGDAO-STRATEGY",
+  "note": "",
+  "photo": "case_assets/bit/2018_QINGDAO-STRATEGY_对话嘉宾合影.JPG",
+  "dirs": [
+   "青岛市实施国际城市战略专家咨询委员会第二次会议"
+  ],
+  "city": "青岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_QINGDAO-STRATEGY.jpg"
+ },
+ {
+  "year": "2018",
+  "brand": "LANQIAHUI",
+  "zh": "青岛蓝洽会（国际人才洽谈会）",
+  "en": "LANQIAHUI",
+  "note": "",
+  "photo": "case_assets/bit/2018_LANQIAHUI_DSC_5961.JPG",
+  "dirs": [
+   "兰洽会第一天",
+   "第十八届蓝洽会照片"
+  ],
+  "city": "青岛",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2018_LANQIAHUI.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会",
+  "en": "International Conference of AnalytiX",
+  "note": "",
+  "photo": "case_assets/bit/2019_AnalytiX_DSC_1980.JPG",
+  "dirs": [
+   "AnalytiX Europe 2019",
+   "AnalytiX-2019",
+   "Analytix2019"
+  ],
+  "city": "大连·欧洲",
+  "edition": "",
+  "country": "欧洲",
+  "tier": "国际",
+  "status": "held",
+  "photo_file": "2019_AnalytiX.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "CMCB",
+  "zh": "世界分子与细胞生物学大会",
+  "en": "World Congress of Molecular & Cell Biology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "cmcb 2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_CMCB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WED",
+  "zh": "世界教育日大会",
+  "en": "World Education Day",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wed2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WED.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WCAM",
+  "zh": "世界新材料大会",
+  "en": "World Congress of Advanced Materials",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCAM-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCAM.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WCSM",
+  "zh": "世界智能材料大会",
+  "en": "World Congress of Smart Materials",
+  "note": "",
+  "photo": "case_assets/bit/2019_WCSM_开幕式及主旨报告-63.jpg",
+  "dirs": [
+   "WCSM 2019",
+   "wcsm2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCSM.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "wmc",
+  "zh": "世界材料化学大会",
+  "en": "World Materials Chemistry Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wmc2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_wmc.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WCO",
+  "zh": "世界海洋大会",
+  "en": "World Congress of Ocean",
+  "note": "",
+  "photo": "case_assets/bit/2019_WCO_微信图片_20191114151049.jpg",
+  "dirs": [
+   "WCO 2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCO.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "WCDD",
+  "zh": "世界消化疾病大会",
+  "en": "World Congress of Digestive Disease",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCDD-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCDD.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WCC",
+  "zh": "世界癌症大会",
+  "en": "World Cancer Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCC-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WCCB",
+  "zh": "世界计算生物学大会",
+  "en": "World Congress of Computational Biology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "wccb2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCCB.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WCORT",
+  "zh": "世界骨科大会",
+  "en": "World Congress of Orthopaedics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WCORT-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WCORT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "mice",
+  "zh": "中国（青岛）世界会议产业日",
+  "en": "China (Qingdao) World MICE Industry Day",
+  "note": "",
+  "photo": "case_assets/bit/2019_mice_48381222.jpg",
+  "dirs": [
+   "2019中国（青岛）世界会议产业日",
+   "mice2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_mice.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会",
+  "en": "Global Congress of Knowledge Economy",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "GCKE-2019"
+  ],
+  "city": "北京",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_GCKE.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "CHINA-EU",
+  "zh": "南京中欧论坛",
+  "en": "CHINA-EU",
+  "note": "",
+  "photo": "case_assets/bit/2019_CHINA-EU_10559995.jpg",
+  "dirs": [
+   "2019南京中欧论坛图片"
+  ],
+  "city": "南京",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_CHINA-EU.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "WDD",
+  "zh": "国际DNA和基因组活动周（国际基因节）",
+  "en": "World DNA and Genome Day",
+  "note": "",
+  "photo": "case_assets/bit/2019_WDD_270A7384.JPG",
+  "dirs": [
+   "WDD-2019"
+  ],
+  "city": "南京",
+  "edition": "第十届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WDD.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "AESMED",
+  "zh": "国际先进能源与材料大会",
+  "en": "Advanced Energy & Materials Congress",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "AESMED-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_AESMED.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "WGC-2019&WCFN-2019",
+  "zh": "国际基因产业大会暨世界食品营养大会",
+  "en": "World Gene Convention & Food and Nutrition",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "WGC-2019&WCFN-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_WGC-2019WCFN-2019.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "ICGO",
+  "zh": "国际妇产科大会",
+  "en": "International Congress of Gynaecology and Obstetrics",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "icgo2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_ICGO.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "wceit",
+  "zh": "国际教育与信息技术大会",
+  "en": "World Congress of Education & IT",
+  "note": "",
+  "photo": "case_assets/bit/2019_wceit_14273228.jpg",
+  "dirs": [
+   "wceit2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_wceit.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会",
+  "en": "International Drug Discovery Science and Technology",
+  "note": "",
+  "photo": "case_assets/bit/2019_IDDST_1003926059388404.jpg",
+  "dirs": [
+   "IDDST2019",
+   "IDDST2019会议资料"
+  ],
+  "city": "南京",
+  "edition": "第十七届",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_IDDST.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "iwem",
+  "zh": "国际水与环境管理大会",
+  "en": "International Water & Environment Meeting",
+  "note": "",
+  "photo": "case_assets/bit/2019_iwem_WDS_7126.JPG",
+  "dirs": [
+   "iwem2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_iwem.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "IBC",
+  "zh": "国际生物治疗大会",
+  "en": "International Biotherapy Congress",
+  "note": "",
+  "photo": "case_assets/bit/2019_IBC_IMG_20190320_162940.jpg",
+  "dirs": [
+   "2019年三月生物治疗大会",
+   "IBC-2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_IBC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "NT",
+  "zh": "国际神经科技大会",
+  "en": "Neurotalk / World Congress of Neurotechnology",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "NT2019",
+   "nt2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_NT.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "NAON",
+  "zh": "国际纳米医学大会",
+  "en": "Nano-Oncology Conference",
+  "note": "",
+  "photo": "case_assets/bit/2019_NAON_Adam J. Moulé.bmp",
+  "dirs": [
+   "NAON2019会议资料整理"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_NAON.jpg"
+ },
+ {
+  "year": "2019",
+  "brand": "RMSC",
+  "zh": "干细胞与再生医学大会",
+  "en": "World Congress of Regenerative Medicine & Stem Cell",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "RMSC-2019会后资料"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_RMSC.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "MARITIME",
+  "zh": "海事会议",
+  "en": "MARITIME",
+  "note": "",
+  "photo": "case_assets/bit/2019_MARITIME_Opening Ceremony(1).jpg",
+  "dirs": [
+   "海事会议的照片"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_MARITIME.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2019",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会",
+  "en": "Protein & Peptide Conference",
+  "note": "",
+  "photo": null,
+  "dirs": [
+   "PEPCON2019"
+  ],
+  "city": "大连",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2019_PepCon.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2021",
+  "brand": "BID",
+  "zh": "大连生物医药产业大会",
+  "en": "Dalian Biopharm Industry Congress",
+  "city": "大连",
+  "note": "疫情后回归线下的首场旗舰大会",
+  "photo": "case_assets/bit/2021_BID_10001.png",
+  "edition": "",
+  "country": "中国",
+  "tier": "国内",
+  "status": "held",
+  "photo_file": "2021_BID.jpg"
+ },
+ {
+  "year": "2022",
+  "brand": "BID",
+  "zh": "2022 生物医药产业大会（筹备）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2022 年完成日程最终稿，为 2023 重启蓄力",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2022",
+  "brand": "GREEN",
+  "zh": "深圳国际生物医药创新大会（方案设计）",
+  "city": "深圳",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2022 年完成策划方案",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "WCO",
+  "zh": "世界海洋大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_WCO_keynote (1).jpg",
+  "photo_file": "2023_WCO.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "WCDD",
+  "zh": "世界消化疾病大会（2023）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_WCDD_微信图片_20230719143000.jpg",
+  "status": "held",
+  "photo_file": "2023_WCDD.jpg"
+ },
+ {
+  "year": "2023",
+  "brand": "ICE",
+  "zh": "世界环境大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_ICE_keynote (1).jpg",
+  "photo_file": "2023_ICE.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "WCC",
+  "zh": "世界癌症大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_WCC_微信图片_20230720145544.jpg",
+  "photo_file": "2023_WCC.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "GCKE",
+  "zh": "全球知识经济大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_GCKE_keynote (1).jpg",
+  "photo_file": "2023_GCKE.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "AnalytiX",
+  "zh": "国际分析科技大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_AnalytiX_Opening&Keynote (1).jpg",
+  "photo_file": "2023_AnalytiX.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "WDD",
+  "zh": "国际基因节（东京大阪站）",
+  "city": "日本东京·大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_WDD_IMG_20230427_083329.jpg",
+  "photo_file": "2023_WDD.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "ICC",
+  "zh": "国际心脏病大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_ICC_微信图片_20230720145642.jpg",
+  "photo_file": "2023_ICC.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会（第 19 届·东京大阪站）",
+  "city": "日本东京·大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十九届",
+  "edition": "",
+  "photo": "case_assets/bit/2023_IDDST_IMG_20230507_092554.jpg",
+  "photo_file": "2023_IDDST.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会（92 场报告）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "92 场报告",
+  "edition": "",
+  "photo": "case_assets/bit/2023_Nano_03d290a27e57e159a7e223726ceaacb.jpg",
+  "status": "held",
+  "photo_file": "2023_Nano.jpg"
+ },
+ {
+  "year": "2023",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会（东京大阪站）",
+  "city": "日本东京·大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_SDDS_IMG_5744.HEIC.JPG",
+  "photo_file": "2023_SDDS.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "WCSM",
+  "zh": "第六届世界智能材料大会",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "第六届，110 场报告",
+  "edition": "",
+  "photo": "case_assets/bit/2023_WCSM_DSC_1240.JPG",
+  "status": "held",
+  "photo_file": "2023_WCSM.jpg"
+ },
+ {
+  "year": "2023",
+  "brand": "PepCon",
+  "zh": "蛋白质与多肽大会（札幌站）",
+  "city": "日本札幌",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": "case_assets/bit/2023_PepCon_16b68c63c0ab5dcf13ad7ac7a76ddd2.jpg",
+  "photo_file": "2023_PepCon.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2023",
+  "brand": "BID",
+  "zh": "国际基因节暨生物医药产业大会（第 11 届基因节）",
+  "city": "大连",
+  "country": "中国",
+  "tier": "国内",
+  "note": "与中国生物工程学会 30 周年合办",
+  "edition": "第十一届",
+  "photo": null,
+  "status": "held",
+  "photo_file": "2023_BID.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2023",
+  "brand": "CAOFEIDIAN",
+  "zh": "海洋发展曹妃甸论坛",
+  "city": "河北曹妃甸",
+  "country": "中国",
+  "tier": "国内",
+  "note": "侯立安院士出席",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "IWCC",
+  "zh": "世界化学大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "WCSM",
+  "zh": "世界智能材料大会（布达佩斯站）",
+  "city": "匈牙利布达佩斯",
+  "country": "匈牙利",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "WCDD",
+  "zh": "世界消化疾病大会（布达佩斯站）",
+  "city": "匈牙利布达佩斯",
+  "country": "匈牙利",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会（第 20 届·大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第二十届",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "Nano",
+  "zh": "国际纳米科技大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "CLUSTER-CN",
+  "zh": "上海奉贤活动（生物医药产业大会筹备）",
+  "city": "上海奉贤",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2024.1",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2024_CLUSTER-CN_shanghai.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2024",
+  "brand": "GREEN",
+  "zh": "深圳绿色发展论坛（工业 5.0）",
+  "city": "深圳",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2024.4",
+  "edition": "",
+  "photo": "case_assets/bit/2024_GREEN_821A0020.JPG",
+  "photo_file": "2024_GREEN_shenzhen.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2024",
+  "brand": "BID",
+  "zh": "第三届国际生物医药产业大会暨 IDDST 第 20 届",
+  "city": "上海",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2024.9，9 大平行论坛",
+  "edition": "",
+  "photo": null,
+  "status": "held",
+  "photo_file": "2024_BID.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCEI",
+  "zh": "第七届世界教育大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第七届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_WCEI_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "IWCC",
+  "zh": "第三届世界化学大会（神户站）",
+  "city": "日本神户",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第三届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_IWCC.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "SMF",
+  "zh": "第三届世界智能制造大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第三届",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "WCAI",
+  "zh": "第三届全球人工智能大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第三届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_WCAI_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCSM",
+  "zh": "第九届世界智能材料大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第九届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_WCSM.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCORT",
+  "zh": "第九届世界骨科大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第九届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WCORT_微信图片_20251016180128_733_339.jpg",
+  "photo_file": "2025_WCORT.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "WCE",
+  "zh": "第九届国际内分泌与代谢大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第九届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WCE_f6749a0150161201c9d818c8c7c161f2.jpg",
+  "photo_file": "2025_WCE.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "IDDST",
+  "zh": "第二十一届国际新药科技发明年会（斯德哥尔摩欧洲站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第二十一届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_IDDST.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "Ophthalmology",
+  "zh": "第二届世界眼科大会（尼斯站）",
+  "city": "法国尼斯",
+  "country": "法国",
+  "tier": "国际",
+  "note": "第二届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_Ophthalmology.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCDD",
+  "zh": "第八届世界消化大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第八届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WCDD_微信图片_20250620092930.jpg",
+  "photo_file": "2025_WCDD.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "CODM",
+  "zh": "第八届口腔与牙科医学大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第八届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_CODM_stockholm.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "ICE",
+  "zh": "第六届世界环境大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第六届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_ICE_微信图片_20251112165640.jpg",
+  "photo_file": "2025_ICE.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "WCAM",
+  "zh": "第十一届世界新材料大会（神户站）",
+  "city": "日本神户",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十一届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_WCAM_kobe.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WEC",
+  "zh": "第十一届世界能源大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十一届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WEC_f4b0267a115c67ebb84bedebfcf0614d.jpg",
+  "photo_file": "2025_WEC_osaka.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "AnalytiX",
+  "zh": "第十一届国际分析科技大会（奈良站）",
+  "city": "日本奈良",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十一届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_AnalytiX.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCC",
+  "zh": "第十七届世界癌症大会（尼斯站）",
+  "city": "法国尼斯",
+  "country": "法国",
+  "tier": "国际",
+  "note": "第十七届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WCC_微信图片_20250619133726.jpg",
+  "photo_file": "2025_WCC.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "WDD",
+  "zh": "第十三届国际基因节（奈良站）",
+  "city": "日本奈良",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十三届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_WDD.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCO",
+  "zh": "第十二届世界海洋大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WCO_微信图片_20251111164439_802_321.jpg",
+  "photo_file": "2025_WCO.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "SDDS",
+  "zh": "第十二届世界药物递送大会（神户站）",
+  "city": "日本神户",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_SDDS.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCFN",
+  "zh": "第十二届世界食品与营养大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "ICGO",
+  "zh": "第十二届国际妇产科大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": null,
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "ICC",
+  "zh": "第十五届国际心脏病大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第十五届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_ICC.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "NT",
+  "zh": "第十五届国际神经科技大会（尼斯站）",
+  "city": "法国尼斯",
+  "country": "法国",
+  "tier": "国际",
+  "note": "第十五届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_NT_微信图片_20251017083431.jpg",
+  "photo_file": "2025_NT_nice.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "RMSC",
+  "zh": "第十五届干细胞与再生医学大会（奈良站）",
+  "city": "日本奈良",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十五届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_RMSC.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "PepCon",
+  "zh": "第十五届蛋白质与多肽大会（奈良站）",
+  "city": "日本奈良",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十五届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_PepCon.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WGC",
+  "zh": "第十四届国际基因产业大会（尼斯站）",
+  "city": "法国尼斯",
+  "country": "法国",
+  "tier": "国际",
+  "note": "第十四届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WGC_keynote forum (9).jpg",
+  "photo_file": "2025_WGC_nice.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "Nano",
+  "zh": "第十四届国际纳米科技大会（神户站）",
+  "city": "日本神户",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十四届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2025_Nano.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WCID",
+  "zh": "第十届世界传染病大会（斯德哥尔摩站）",
+  "city": "瑞典斯德哥尔摩",
+  "country": "瑞典",
+  "tier": "国际",
+  "note": "第十届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_WCID_微信图片_20250620090457.jpg",
+  "photo_file": "2025_WCID.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "GCKE",
+  "zh": "第十届全球知识经济大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_GCKE_微信图片_20251111102956_397_321.jpg",
+  "photo_file": "2025_GCKE.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "SEB",
+  "zh": "第十届国际酶和生物催化大会（奈良站）",
+  "city": "日本奈良",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十届",
+  "edition": "",
+  "photo": "case_assets/bit/2025_SEB_微信图片_20250428142151.jpg",
+  "photo_file": "2025_SEB.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2025",
+  "brand": "Bio-Infotech",
+  "zh": "首届生物医学信息技术大会",
+  "city": "日本奈良",
+  "country": "日本",
+  "tier": "国际",
+  "note": "首届",
+  "edition": "",
+  "photo": null,
+  "status": "held",
+  "photo_file": "2025_Bio-Infotech.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "WBPI",
+  "zh": "世界美容产品产业大会",
+  "city": "上海奉贤",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2025.9",
+  "edition": "",
+  "photo": null,
+  "status": "held",
+  "photo_file": "2025_WBPI.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "SynBio",
+  "zh": "合成生物学产业大会",
+  "city": "上海奉贤",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2025.9",
+  "edition": "",
+  "photo": null,
+  "status": "held",
+  "photo_file": "2025_SynBio.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2025",
+  "brand": "BID",
+  "zh": "第四届国际生物医药产业发展大会",
+  "city": "上海奉贤",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2025.9.24-26",
+  "edition": "",
+  "photo": null,
+  "status": "held",
+  "photo_file": "2025_BID.jpg",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "ICE",
+  "zh": "第七届世界环境大会（赫尔辛基站）",
+  "city": "芬兰赫尔辛基",
+  "country": "芬兰",
+  "tier": "国际",
+  "note": "第七届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_ICE_helsinki.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "WCEE",
+  "zh": "第九届世界内分泌与代谢大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第九届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCEE_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCEE_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WCDD",
+  "zh": "第九届世界消化大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第九届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCDD_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCDD_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "CODM",
+  "zh": "第九届口腔与牙科医学大会（雅典站）",
+  "city": "希腊雅典",
+  "country": "希腊",
+  "tier": "国际",
+  "note": "第九届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_CODM_athens.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "IDDST",
+  "zh": "第二十二届国际新药科技发明年会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第二十二届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_IDDST_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "WCEI",
+  "zh": "第八届世界教育大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第八届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCEI_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCEI_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WCID",
+  "zh": "第十一届世界传染病大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十一届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCID_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCID_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "GCKE",
+  "zh": "第十一届全球知识经济大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十一届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_GCKE_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_GCKE_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WCO",
+  "zh": "第十三届世界海洋大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十三届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCO_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCO_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "SDDS",
+  "zh": "第十三届世界药物递送大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十三届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_SDDS_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "ICGO",
+  "zh": "第十三届国际妇产科大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十三届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_ICGO_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_ICGO_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WCAM",
+  "zh": "第十二届世界新材料大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_WCAM_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "WEC",
+  "zh": "第十二届世界能源大会（赫尔辛基站）",
+  "city": "芬兰赫尔辛基",
+  "country": "芬兰",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WEC_Keynote Forum (94).jpg",
+  "photo_file": "2026_WEC_helsinki.jpg",
+  "status": "held"
+ },
+ {
+  "year": "2026",
+  "brand": "AnalytiX",
+  "zh": "第十二届国际分析科技大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十二届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_AnalytiX_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_AnalytiX_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WGC",
+  "zh": "第十五届国际基因产业大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十五届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WGC_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WGC_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "Nano",
+  "zh": "第十五届国际纳米科技大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十五届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_Nano_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "WCC",
+  "zh": "第十八届世界癌症大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十八届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCC_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCC_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "ICC",
+  "zh": "第十六届国际心脏病大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十六届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_ICC_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_ICC_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "NT",
+  "zh": "第十六届国际神经科技大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十六届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_NT_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_NT_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "RMSC",
+  "zh": "第十六届干细胞与再生医学大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十六届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_RMSC_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_RMSC_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "PepCon",
+  "zh": "第十六届蛋白质与多肽大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十六届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_PepCon_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_PepCon_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "CMCB",
+  "zh": "第十届世界分子与细胞生物学大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_CMCB_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_CMCB_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WCSM",
+  "zh": "第十届世界智能材料大会（曼谷站）",
+  "city": "泰国曼谷",
+  "country": "泰国",
+  "tier": "国际",
+  "note": "第十届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCSM_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCSM_bangkok.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "WCORT",
+  "zh": "第十届世界骨科大会（京都站）",
+  "city": "日本京都",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第十届",
+  "edition": "",
+  "photo": "case_assets/bit/2026_WCORT_微信图片_20260211142133_88_348.jpg",
+  "photo_file": "2026_WCORT_kyoto.jpg",
+  "status": "upcoming"
+ },
+ {
+  "year": "2026",
+  "brand": "IWCC",
+  "zh": "第四届世界化学大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第四届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_IWCC_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "SMF",
+  "zh": "第四届世界智能制造大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第四届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_SMF_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "WCAI",
+  "zh": "第四届全球人工智能大会（大阪站）",
+  "city": "日本大阪",
+  "country": "日本",
+  "tier": "国际",
+  "note": "第四届",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2026_WCAI_osaka.jpg",
+  "status": "held",
+  "photo_placeholder": true
+ },
+ {
+  "year": "2026",
+  "brand": "BID",
+  "zh": "2026 生物医药产业发展大会",
+  "city": "上海",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2026.11.19-21",
+  "edition": "",
+  "photo": null,
+  "status": "upcoming"
+ },
+ {
+  "year": "2027",
+  "brand": "CLUSTER-27",
+  "zh": "2027 年 10 月会议（筹备中）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "2027 年筹备场次",
+  "edition": "",
+  "photo": null,
+  "planned": true,
+  "status": "planned"
+ },
+ {
+  "year": "2027",
+  "brand": "IWCC",
+  "zh": "世界化学大会（筹备中）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "2027 年筹备场次",
+  "edition": "",
+  "photo": null,
+  "planned": true,
+  "status": "planned"
+ },
+ {
+  "year": "2027",
+  "brand": "SMF",
+  "zh": "世界智能制造大会（筹备中）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "2027 年筹备场次",
+  "edition": "",
+  "photo": null,
+  "planned": true,
+  "status": "planned"
+ },
+ {
+  "year": "2027",
+  "brand": "IDDST",
+  "zh": "国际新药发明科技年会（第 23 届·筹备中）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "2027 年筹备场次",
+  "edition": "",
+  "photo": null,
+  "planned": true,
+  "status": "planned"
+ },
+ {
+  "year": "2027",
+  "brand": "SDDS",
+  "zh": "国际药物递送系统大会（筹备中）",
+  "city": "海外",
+  "country": "海外",
+  "tier": "国际",
+  "note": "2027 年筹备场次",
+  "edition": "",
+  "photo": null,
+  "planned": true,
+  "status": "planned"
+ },
+ {
+  "year": "2024",
+  "brand": "SEB",
+  "zh": "国际酶与生物催化研讨会（上海站）",
+  "city": "上海",
+  "country": "中国",
+  "tier": "国内",
+  "note": "酶系列真实会议",
+  "edition": "",
+  "photo": null,
+  "photo_file": "2024_SEB_shanghai.jpg",
+  "status": "held",
+  "photo_placeholder": true,
+  "dirs": []
+ },
+ {
+  "year": "2025",
+  "brand": "AIEnzyme",
+  "zh": "翔珑首届 AI 驱动酶创新论坛",
+  "city": "上海奉贤",
+  "country": "中国",
+  "tier": "国内",
+  "note": "2025.9",
+  "edition": "",
+  "photo": "case_assets/bit/2025_AIEnzyme_微信图片_20250428142151.jpg",
+  "status": "held",
+  "photo_file": "2025_SEB.jpg",
+  "dirs": []
+ }
+]
